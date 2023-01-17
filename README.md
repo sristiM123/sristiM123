@@ -1,4 +1,4 @@
-# <p align="center"> Hey, I'm [**Sristri Mitra**](https://sristim123.github.io/personal_portfolio/)<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">
+# <p align="center"> Hey, I'm [**Sristri Mitra**]<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">
 <h3 align="center">A cyber security enthusiast from Bangladesh</h3>
 
 
