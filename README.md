@@ -37,7 +37,8 @@
 
 ## Github Status:
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sristim123&show_icons=true&locale=en" alt="sristim123" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sristim123&show_icons=true&locale=en&layout=compact" alt="sristim123" /></p>
+/*<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sristim123&show_icons=true&locale=en" alt="sristim123" /></p>*/
+<img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sristim123&layout=compact&langs_count=16&theme=dracula"/>
+<a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sristim123&theme=react&line_height=40&hide=css"/> </a>
+/*<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sristim123&show_icons=true&locale=en&layout=compact" alt="sristim123" /></p>*/
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sristim123&" alt="sristim123" /></p>
