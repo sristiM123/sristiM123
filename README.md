@@ -37,5 +37,5 @@
 
 ## Github Status:
 
-<img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sristim123&layout=compact&langs_count=16&theme=dracula"/>
+<p align="center"> <img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sristim123&layout=compact&langs_count=16&theme=dracula"/> </p>
 
