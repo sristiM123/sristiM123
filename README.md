@@ -1,4 +1,4 @@
-# <p align="center"> Hey, I'm **Sristri Mitra**<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">
+# <p align="center"> Hey, I'm **Sristi Mitra**<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">
 <h3 align="center">A cyber security enthusiast from Bangladesh</h3>
 
 
@@ -6,9 +6,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sristim123" alt="sristim123" /></a> </p>
 
-- 🌱 I’m currently learning **Machine learning, neural network**
+- 🌱 I’m currently learning **Artificial Intelligence, Machine Learning, Deep Learning, and Neural Networks**
 
-- 💬 Ask me about **python, web development**
+- 💬 Ask me about **Python, Web development**
 
 - 📫 How to reach me **ratrimitra16@gmail.com**
 
