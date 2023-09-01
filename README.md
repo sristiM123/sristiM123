@@ -1,5 +1,5 @@
 # <p align="center"> Hey, I'm **Sristi Mitra**<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">
-<h3 align="center">Fresh Graduate DTU'23 | Computer Engineer | ML & AI | Cyber Security Entuthiasist </h3>
+<h3 align="center">Fresh Graduate DTU'23 | Computer Engineer | ML & AI | Cyber Security Enthusiast </h3>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sristim123" alt="sristim123" /></a> </p>
