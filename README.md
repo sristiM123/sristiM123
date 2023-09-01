@@ -1,27 +1,28 @@
 # <p align="center"> Hey, I'm **Sristi Mitra**<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">
-<h3 align="center">A cyber security enthusiast from Bangladesh</h3>
+<h3 align="center">Fresh Graduate DTU'23 | Computer Engineer | ML & AI | Cyber Security Entuthiasist </h3>
 
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sristim123&label=Profile%20views&color=0e75b6&style=flat" alt="sristim123" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sristim123" alt="sristim123" /></a> </p>
 
-- 🌱 I’m currently learning **Artificial Intelligence, Machine Learning, Deep Learning, and Neural Networks**
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sristim123&label=Profile%20views&color=0e75b6&style=flat" alt="sristimitra" /> </p>
 
-- 💬 Ask me about **Python, Web development**
-
-- 📫 How to reach me **ratrimitra16@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
-
+* 🔭 I’m currently working on **30 Days challenge of AI and Data Analysis project**
+* 🌱 I’m currently learning **Cyber Security, Ethical Hacking, Artificial Intelligence, Machine Learning, Deep Learning, and Neural Networks**
+* 💬 Ask me about **Python, Web developmen and Technical Writing**
+* 📫 How to reach me [ratrimitra16@gmail.com](mailto:ratrimitra16@gmail.]com)
+* ⚡ Fun fact **I am not a multitasker, I tend to focus precisely on one work at a time**
 
 
 <br />
 
 ## Connect with me:
+<r />
 <p align="center">
-<a href="https://www.linkedin.com/in/sristi-mitra-3260b11b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sristi mitra" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100010432668431" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sristi mitra" height="30" width="40" /></a>
+<a href="https://twitter.com/450co" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="450co" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sristi-mitra-3260b11b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sristi mitra" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22481376/sristi-mitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sristi mitra" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/sristimitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sristi mitra" height="30" width="40" /></a>
+<a href="https://fb.com/zishnusarker.zishnusarker/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zishnusarker.zishnusarker/" height="30" width="40" /></a>
 <a href="https://instagram.com/_a_sadburitto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_a_sadburitto" height="30" width="40" /></a>
 <a href="https://leetcode.com/sristi_mitra_2021/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sristi_mitra_2021" height="30" width="40" /></a>
 <a href="https://discord.gg/#0813" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#0813" height="30" width="40" /></a>
@@ -31,11 +32,27 @@
 
 ## Languages and Tools:
 
-<p align="center"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+</a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img                                                                                                                                                                                                               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img </a></p>
 
 <br />
 
 ## Github Status:
 
+<!-- <p align="center"> <a href="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)"><img src="https://github-profile-trophy.vercel.app/?username=zishnusarker&bg_color=00000000&text_color=3498db" alt="zishnusarker" /></a> </p> -->
+
+<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=sristiM123&hide_border=true&bg_color=00000000&text_color=3498db" alt="sristi mitra" /></p>
+
 <p align="center"> <img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sristim123&layout=compact&langs_count=16&theme=dracula"/> </p>
+
+<img width="100%" height="350" alt="Developer Illustration" src="https://media-exp2.licdn.com/dms/image/C5112AQF9a-hvzWn8uA/article-cover_image-shrink_600_2000/0/1574956586430?e=1663200000&v=beta&t=MC4wANQX8uIgE5pKU44_jzotKp80TV43db02OgUM6jE"/>
+<br />
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zishnusarker&show_icons=true&locale=en&layout=compact&bg_color=00000000&text_color=3498db" alt="zishnusarker" /></p> -->
+
+
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=sristiM123&show_icons=true&hide_border=true&bg_color=00000000&text_color=3498db&hide=issues" alt="sristi mitra" /> 
+<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sristiM123&theme=tokyonight_duo&hide_border=true&background=DD272700&fire=FF0000&ring=FF5403&currStreakNum=FF3A13" alt="sristi mitra" />
+
 
