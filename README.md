@@ -6,9 +6,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sristim123&label=Profile%20views&color=0e75b6&style=flat" alt="sristimitra" /> </p>
 
-* 🔭 I’m currently working on **30 Days challenge of AI and Data Analysis project**
+* 🔭 I’m currently working on **30 day challenge of AI and Data Analysis project**
 * 🌱 I’m currently learning **Cyber Security, Ethical Hacking, Artificial Intelligence, Machine Learning, Deep Learning, and Neural Networks**
-* 💬 Ask me about **Python, Web developmen and Technical Writing**
+* 💬 Ask me about **Python, Web development, and Technical Writing**
 * 📫 How to reach me [ratrimitra16@gmail.com](mailto:ratrimitra16@gmail.]com)
 * ⚡ Fun fact **I am not a multitasker, I tend to focus precisely on one work at a time**
 
@@ -18,11 +18,9 @@
 ## Connect with me:
 <r />
 <p align="center">
-<a href="https://twitter.com/450co" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="450co" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sristi-mitra-3260b11b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sristi mitra" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22481376/sristi-mitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sristi mitra" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/sristimitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sristi mitra" height="30" width="40" /></a>
-<a href="https://fb.com/zishnusarker.zishnusarker/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zishnusarker.zishnusarker/" height="30" width="40" /></a>
 <a href="https://instagram.com/_a_sadburitto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_a_sadburitto" height="30" width="40" /></a>
 <a href="https://leetcode.com/sristi_mitra_2021/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sristi_mitra_2021" height="30" width="40" /></a>
 <a href="https://discord.gg/#0813" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#0813" height="30" width="40" /></a>
