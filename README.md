@@ -10,6 +10,7 @@
 * 🌱 I’m currently learning **Cyber Security, Ethical Hacking, Artificial Intelligence, Machine Learning, Deep Learning, and Neural Networks**
 * 💬 Ask me about **Python, Web development, and Technical Writing**
 * 📫 How to reach me [ratrimitra16@gmail.com](mailto:ratrimitra16@gmail.]com)
+* 🧾 My [Resume](https://drive.google.com/file/d/1ePnNswpS95XIop8lspAAFISovtmqW8xB/view?usp=sharing)
 * ⚡ Fun fact **I am not a multitasker, I tend to focus precisely on one work at a time**
 
 
