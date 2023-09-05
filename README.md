@@ -2,7 +2,7 @@
 <h3 align="center">Fresh Graduate DTU'23 | Computer Engineer | ML & AI | Cyber Security Enthusiast </h3>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sristim123" alt="sristim123" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sristim123" alt="sristim123"></a> </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sristim123&label=Profile%20views&color=0e75b6&style=flat" alt="sristimitra" /> </p>
 
@@ -39,19 +39,14 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
 
 ## Github Status:
 
-<!-- <p align="center"> <a href="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)"><img src="https://github-profile-trophy.vercel.app/?username=zishnusarker&bg_color=00000000&text_color=3498db" alt="zishnusarker" /></a> </p> -->
+<!-- <p align="center"> <a href="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)"><img src="https://github-profile-trophy.vercel.app/?username=sristiM123&bg_color=00000000&text_color=3498db" alt="sristi mitra"></a> </p> -->
 
-<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=sristiM123&hide_border=true&bg_color=00000000&text_color=3498db" alt="sristi mitra" /></p>
-
-<p align="center"> <img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sristim123&layout=compact&langs_count=16&theme=dracula"/> </p>
-
-<img width="100%" height="350" alt="Developer Illustration" src="https://media-exp2.licdn.com/dms/image/C5112AQF9a-hvzWn8uA/article-cover_image-shrink_600_2000/0/1574956586430?e=1663200000&v=beta&t=MC4wANQX8uIgE5pKU44_jzotKp80TV43db02OgUM6jE"/>
-<br />
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zishnusarker&show_icons=true&locale=en&layout=compact&bg_color=00000000&text_color=3498db" alt="zishnusarker" /></p> -->
+<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=sristiM123&hide_border=true&bg_color=00000000&text_color=3498db" alt="sristi mitra"></p>
 
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=sristiM123&show_icons=true&hide_border=true&bg_color=00000000&text_color=3498db&hide=issues" alt="sristi mitra" /> 
-<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sristiM123&theme=tokyonight_duo&hide_border=true&background=DD272700&fire=FF0000&ring=FF5403&currStreakNum=FF3A13" alt="sristi mitra" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sristiM123&show_icons=true&locale=en&layout=compact&bg_color=00000000&text_color=3498db" alt="sristi mitra"></p> -->
+
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=sristiM123&show_icons=true&hide_border=true&bg_color=00000000&text_color=3498db&hide=issues" alt="sristi mitra"> 
+<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sristiM123&theme=tokyonight_duo&hide_border=true&background=DD272700&fire=FF0000&ring=FF5403&currStreakNum=FF3A13" alt="sristi mitra">
 
 
