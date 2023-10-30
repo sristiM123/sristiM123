@@ -1,4 +1,4 @@
-# <p align="center"> Hey, I'm **Sristi Mitra**<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">
+# <p align="center"> <a href="https://sristi-mitra.netlify.app/">Hey, I'm **Sristi Mitra**</a><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">
 <h3 align="center">Fresh Graduate DTU'23 | Computer Engineer | ML & AI | Cyber Security Enthusiast </h3>
 
 
