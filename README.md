@@ -13,7 +13,7 @@
 <!-- HERO SECTION WITH SMALL GIF -->
 <div align="center">
   <!-- Replace the GIF URL below with any aesthetic cyber/GIF you like -->
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="220" alt="coding gif" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="270" alt="coding gif" />
 </div>
 
 <br/>
@@ -58,13 +58,8 @@
 ### 📈 GitHub at a Glance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sristiMIT23&show_icons=true&hide_title=true&theme=github_dark&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sristiMIT23&theme=github-dark-blue&hide_border=true" height="150" />
-</p>
-
-<!-- Optional contribution snake animation -->
-<p align="center">
-  <img src="https://github.com/sristiMIT23/sristiMIT23/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sristiM123&show_icons=true&hide_title=true&theme=github_dark&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sristiM123&theme=github-dark-blue&hide_border=true" height="150" />
 </p>
 
 ---
