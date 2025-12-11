@@ -58,15 +58,11 @@
 #### Dev & Infra
 <code>Linux</code> <code>Docker</code> <code>Git &amp; GitHub</code> <code>Next.js</code>
 
----
 
 ### GitHub at a Glance
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sristiM123&show_icons=true&hide_title=true&theme=github_dark&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sristiM123&theme=github-dark-blue&hide_border=true" height="150" />
-</p>
--
+![GitHub streak](https://streak-stats.demolab.com?user=sristiM123&theme=github-dark-blue&hide_border=true)
+
 
 ### Let’s Connect
 
