@@ -1,6 +1,6 @@
 <!-- NAME – CLICKABLE TO PORTFOLIO -->
 <h1 align="center">
-  <a href="https://your-portfolio-url.com" target="_blank" style="text-decoration: none; color: inherit;">
+  <a href="https://sristimitraportfolio.netlify.app/" target="_blank" style="text-decoration: none; color: inherit;">
     <span style="white-space: nowrap;">Sristi Mitra 👋</span>
   </a>
 </h1>
